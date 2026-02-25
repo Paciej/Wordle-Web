@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: pl.polsl.model.GameHistoryTest
--------------------------------------------------------------------------------
-Tests run: 23, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.183 s -- in pl.polsl.model.GameHistoryTest

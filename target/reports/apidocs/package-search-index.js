@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"pl.polsl.dao"},{"l":"pl.polsl.entities"},{"l":"pl.polsl.listeners"},{"l":"pl.polsl.model"},{"l":"pl.polsl.servlets"},{"l":"pl.polsl.utils"},{"l":"pl.polsl.wordleweb"},{"l":"pl.polsl.wordleweb.resources"}];updateSearchResults();
